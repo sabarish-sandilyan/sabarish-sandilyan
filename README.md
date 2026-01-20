@@ -3,7 +3,7 @@
 
 <!-- Animated Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hey+there!+👋;+I'm+mada punda sabari!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hey+there!+👋;+I'm+mada+punda+sabari!;" />
 </h1>
 
 <h3 align="center">
@@ -47,18 +47,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=eniyanyosuva&theme=dark&background=000000" alt="GitHub streak" />
 </p>
-
-<!--
-**sabarish-sandilyan/sabarish-sandilyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
