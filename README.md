@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  Blockchain & Smart Contract Engineer | Rust & Solidity Developern 
+  Cybersecurity | Rust & Solidity Developer | Web3 
 </h3>
 
 ---
@@ -49,6 +49,5 @@
 
 
 <h3 align="center">🔥 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sabarish-sandilyan&theme=dark&background=000000" alt="GitHub streak" />
+<p align="center"> 
 </p>
