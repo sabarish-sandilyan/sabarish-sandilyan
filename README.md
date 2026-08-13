@@ -13,9 +13,9 @@
 ---
 
 ### 🧠 About Me  
-- Deeply into Web3, Blockchain, and Smart Contract development  
-- Building scalable dApps using Rust, Anchor, and the Solana ecosystem  
-- Exploring MPC, Multisigs, Validators, and Automation in Web3  
+- Smart Contract Auditing: Identifying vulnerabilities, logic flaws, and gas optimization opportunities in Solidity/Rust. 
+- Web3 Security: Threat modeling for DeFi protocols, cross-chain bridges, and NFT platforms.  
+- Offensive & Defensive Security: Penetration testing, secure coding practices, and incident response in decentralized ecosystems. 
 - Currently developing high-performance Rust-based Solana projects
 ---
 
@@ -29,17 +29,22 @@
 </div>
 
 ---
+### 🛠️ Languages & Tools
 
-### 💼 Tech Stack  
+#### Web3 & Security Tools
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CDA?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-**Languages:**  🦀 Rust · 💎 Solidity · 🐍 Python · 🕸️ JavaScript · ☕ Java  
-
-**Blockchain & Frameworks:**  🌐 Solana · 🪙 Anchor · ⚙️ Pinocchio · 🧠 Web3.js · ⛓️ Metaplex  
-
-**Tools & Infrastructure:**  🧰 Git · 🧪 Hardhat · 🧩 Node.js · ☁️ AWS · ⚡ Docker  
-
-**Frontend:**  🖥️ React · 🔮 TailwindCSS · 💫 Next.js  
-
+#### Languages & Infrastructure
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
 
